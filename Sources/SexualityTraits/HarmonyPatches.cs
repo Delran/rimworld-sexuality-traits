@@ -30,7 +30,7 @@ namespace SexualityTraits
                 TraitDefOf.Asexual
             };
         }
-    }²
+    }
     [HarmonyPatch(typeof(InteractionWorker_RomanceAttempt), nameof(InteractionWorker_RomanceAttempt.RandomSelectionWeight))]
     public static class RandomSelectionWeight_Patch
     {
