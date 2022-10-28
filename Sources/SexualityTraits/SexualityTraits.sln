@@ -7,20 +7,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SexualityTraits", "Sexualit
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
 		1.4 - Debug|Any CPU = 1.4 - Debug|Any CPU
 		1.4 - Release|Any CPU = 1.4 - Release|Any CPU
+		1.3 - Release|Any CPU = 1.3 - Release|Any CPU
+		1.3 - Debug|Any CPU = 1.3 - Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.4 - Debug|Any CPU.ActiveCfg = 1.4 - Debug|Any CPU
 		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.4 - Debug|Any CPU.Build.0 = 1.4 - Debug|Any CPU
 		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.4 - Release|Any CPU.ActiveCfg = 1.4 - Release|Any CPU
 		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.4 - Release|Any CPU.Build.0 = 1.4 - Release|Any CPU
+		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.3 - Release|Any CPU.ActiveCfg = 1.3 - Release|Any CPU
+		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.3 - Release|Any CPU.Build.0 = 1.3 - Release|Any CPU
+		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.3 - Debug|Any CPU.ActiveCfg = 1.3 - Debug|Any CPU
+		{B03533B3-2F7A-455A-ADF7-D6E039D5E63F}.1.3 - Debug|Any CPU.Build.0 = 1.3 - Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
